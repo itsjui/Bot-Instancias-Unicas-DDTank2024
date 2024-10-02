@@ -37,6 +37,9 @@ Execute o script com o seguinte comando no CMD:
 python bot_ddt.py
 O bot começará a rodar automaticamente, repetindo o processo de farm nas instâncias. Ele irá localizar os botões, ajustar o ângulo e realizar o ataque.
 
+Condição de parada:
+Para parar a execução do bot use o comando ctrl + c.
+
 Estrutura do Projeto
 bot_ddt.py: Arquivo principal do script.
 imagens/: Diretório que contém todas as imagens usadas para reconhecimento no script.
