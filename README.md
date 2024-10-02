@@ -21,6 +21,8 @@ Imagem de Referência: As imagens usadas para reconhecimento (como botões de in
 
 Como Funciona
 O script faz capturas de tela em tempo real e compara com as imagens de referência fornecidas. Quando encontra um item correspondente (botões, ícones ou outros elementos do jogo), ele simula cliques e pressiona teclas para executar as ações correspondentes.
+*****OBSERVAÇÃO*****
+Para que o bot rode é necessario entrar em uma sala de instancia(esse será o ponto de partida), após isso inicie o bot.
 
 Funcionalidades principais:
 Reconhecimento de botões e menus.
