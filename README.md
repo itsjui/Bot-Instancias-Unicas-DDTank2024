@@ -30,7 +30,11 @@ Farm automático em instâncias únicas.
 Como Usar
 Garanta que o jogo DDTank esteja aberto e posicionado corretamente para que o script possa reconhecer os elementos na tela.
 
-Certifique-se de que as imagens de referência estejam configuradas corretamente no caminho especificado no script.
+******Certifique-se de que as imagens de referência estejam configuradas corretamente no caminho especificado no script.**********
+mude todos os caminhos conforme o caminho da pasta imagens que baixou junto com os arquivos de execução, exemplo:
+imagem=r'D:\Scripts\bot ddt\imagens\escolhe_instancia.png'   troque o caminho para o caminho novo  ----> imagem=r'C:\EXEMPLO\bot ddt\imagens\escolhe_instancia.png'
+****OBSERVAÇÃO***
+Não altere os nomes das variaveis de imagem.
 
 Execute o script com o seguinte comando no CMD:
 
